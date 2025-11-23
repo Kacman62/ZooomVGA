@@ -1,0 +1,16 @@
+Part Name,Company,Link,Price per 1,Order amount,Subtotal,Running total,
+PCB and Stencil,JLCPCB,https://github.com/Kacman62/ZooomVGA/blob/main/ZooomVGA%20Gerber.zip,16.16,1,16.16,16.16,
+STM32F103C8,LCSC,https://www.lcsc.com/product-detail/C8734.html?s_z=n_STM32F103C8,1.13,1,1.13,17.29,
+USBC,LCSC,https://www.lcsc.com/product-detail/C165948.html?s_z=n_TYPE-C-31-M-12,0.175,5,0.875,18.165,
+AMS1117,LCSC,https://www.lcsc.com/product-detail/C6186.html?s_z=n_AMS1117,0.1641,5,0.8205,18.9855,
+22Ohm Resistor,LCSC,https://www.lcsc.com/product-detail/C107701.html?s_z=n_22%2520ohm,0.0012,100,0.12,19.1055,
+330 Ohm Resistor,LCSC,https://www.lcsc.com/product-detail/C105881.html?s_z=n_330%2520Ohm,0.0012,100,0.12,19.2255,
+Crystal Oscillator,LCSC,https://www.lcsc.com/product-detail/C13738.html?s_z=n_X322516MLB4SI,0.0663,10,0.663,19.8885,
+VGA Femal Connector,LCSC,https://www.lcsc.com/product-detail/C3121412.html?utm_source=chatgpt.com,1.69,1,1.69,21.5785,
+LCSC Shipping and fees,,,,,11.78,33.3585,
+JLCPCB Fees (not shipping),,,,,0.9,34.2585,
+,,,,,,36,My Total
+"10u, .1u capacitors",,,,,,,
+"100k, 10k, 5.1k 1k resistors",,,,,,,
+Leds,,,,,,,
+,,,,,,basically 36 dollars,Your total
