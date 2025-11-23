@@ -10,7 +10,8 @@ I've been spending a lot of time on software recently and I wanted to do another
 
 # The rest of the Owl
 
-I then created a Logo for the board, imporoved the silkscreen, added my logo and exported it to JLCPCB, coming in at around $15 with the stencil and shipping.
+I then created a Logo for the board, imporoved the silkscreen, added my logo and exported it to JLCPCB, coming in at around $15 with the stencil and shipping. 
+While making the BOM i noticed a slight error with the VGA port, so I changed it to a female connector, did some minor rerouting and fixed the error.
 
 <img width="574" height="820" alt="image" src="https://github.com/user-attachments/assets/3cc51ba4-0c39-4a0a-bd6d-dcabf6d473f7" />
 
