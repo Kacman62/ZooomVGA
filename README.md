@@ -18,3 +18,6 @@ While making the BOM i noticed a slight error with the VGA port, so I changed it
 <img width="574" height="820" alt="image" src="https://github.com/user-attachments/assets/3cc51ba4-0c39-4a0a-bd6d-dcabf6d473f7" />
 
 <img width="815" height="453" alt="image" src="https://github.com/user-attachments/assets/502ddeeb-6fa1-4ca1-9ae9-23f37dccfd9b" />
+
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/419d68a1-f584-499d-a337-7cdaaeaf07ff" />
+
